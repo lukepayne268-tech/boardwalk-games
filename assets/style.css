@@ -3,6 +3,11 @@
 
 
 /*global styles*/
+.section {
+    margin-top: 2rem;
+}
+
+
 
 /*css variables*/
 :root {
@@ -25,6 +30,7 @@ h2,
 h3 {
     font-family: var(--secondary-font);
     color: var(--primary-color);
+    text-transform: uppercase;
 }
 
 .sub-heading-color {
@@ -39,6 +45,16 @@ h3 {
 #navbar .logo {
     width: 30px;
 }
+
+/*Header*/
+#header {
+    font-family: var(--secondary-font);
+
+}
+
+
+
+
 
 /*grid visualisation for CSS*/
 
