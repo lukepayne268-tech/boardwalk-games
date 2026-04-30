@@ -9,6 +9,8 @@
 
 
 
+
+
 /*css variables*/
 :root {
     --primary-font: "Inter", sans-serif;
@@ -85,6 +87,10 @@ h2 {
     border: none;
 }
 
+/*Booking form*/
+#booking-form .btn-primary {
+    margin-bottom: 2rem;
+}
 /*Footer / Contact section */
 #contact {
     background-color: var(--primary-color);
