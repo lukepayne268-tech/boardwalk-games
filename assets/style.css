@@ -68,8 +68,21 @@ h2 {
     
 }
 
-#services .card {
+#services .card-footer {
     margin-bottom: 1.5rem;
+}
+
+/*game library cards*/ 
+
+#new-games .card, 
+#fav-games .card {
+   border: none;
+    
+}
+
+#new-games .card-footer, 
+#fav-games .card-footer {
+    border: none;
 }
 
 /*Media queries*/
