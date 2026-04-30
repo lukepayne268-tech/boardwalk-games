@@ -33,7 +33,7 @@ h3 {
 
 /*grid visualisation for CSS*/
 
-.container, 
+/*.container, 
 .row {
     border: 2px solid black;
 }
