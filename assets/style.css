@@ -119,6 +119,10 @@ h2 {
     
 }
 
+#contact .table-dark * {
+    background-color: transparent;
+}
+
 
 /*Media queries*/
 
