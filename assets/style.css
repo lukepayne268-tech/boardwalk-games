@@ -47,6 +47,11 @@ h2 {
     color: var(--highlight-color)
 }
 
+/*my button in header was defaulting to secondary-font, additional style rule applied to fix*/
+.btn-primary {
+    font-family: var(--primary-font);
+}
+
 /*Navbar*/
 #navbar {
     background-color: var(--primary-color);
