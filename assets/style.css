@@ -4,8 +4,7 @@
 
 /*global styles*/
 .section {
-    margin-top: 2rem;
-    margin-bottom: 2rem;
+    padding-top: 4rem; /*prevent navbar overlap*/
 }
 
 
