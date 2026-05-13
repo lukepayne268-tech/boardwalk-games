@@ -26,6 +26,7 @@
 
 body {
     font-family: var(--primary-font);
+    padding-top: 41.64px; /*pushes the top of the header down under fixed nav bar*/
 }
 
 h1,
